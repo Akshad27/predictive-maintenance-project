@@ -1,0 +1,1 @@
+This project implements a scheduled, cloud-based refresh pipeline (Azure Data Factory + Power BI scheduled refresh). A fully serverless retraining pipeline via Azure Functions was scoped and partially implemented; due to subscription tier limitations on the free trial, this was deferred to a future iteration
